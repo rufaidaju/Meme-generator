@@ -1,7 +1,6 @@
 # Meme generator
 
 ### Meme generator app has build during many phases while learning React :
- 1. Create the boilerplate to get React to render something .
  1. Create  Header and MemeGenerator components.
  1. MemeGenerator will be calling to an API  that provides a bunch of meme images.
     * https://api.imgflip.com/get_memes

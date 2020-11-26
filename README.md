@@ -6,5 +6,6 @@
     * https://api.imgflip.com/get_memes
  1. Create 2 input fields and it will be "controlled forms".
  1. Create the onChagne handler update the corresponding state on every change of the input box.
- 1. Create a method that, when the "Gen" button is clicked, random meme image shows up in the bottom portion of the meme generator.
+ 1. Create a method that, when the "Gen" button is clicked, random meme image shows up in the bottom  portion of the meme generator.
+ 1. Check the app here: https://rufaidaju.github.io/meme-generator/
  
